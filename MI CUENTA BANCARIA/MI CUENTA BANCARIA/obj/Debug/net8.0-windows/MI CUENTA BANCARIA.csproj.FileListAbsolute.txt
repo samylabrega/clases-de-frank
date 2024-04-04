@@ -1,0 +1,16 @@
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\bin\Debug\net8.0-windows\MI CUENTA BANCARIA.exe
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\bin\Debug\net8.0-windows\MI CUENTA BANCARIA.deps.json
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\bin\Debug\net8.0-windows\MI CUENTA BANCARIA.runtimeconfig.json
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\bin\Debug\net8.0-windows\MI CUENTA BANCARIA.dll
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\bin\Debug\net8.0-windows\MI CUENTA BANCARIA.pdb
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\MI_CUENTA_BANCARIA.Form1.resources
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\MI CUENTA BANCARIA.csproj.GenerateResource.cache
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\MI CUENTA BANCARIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\MI CUENTA BANCARIA.AssemblyInfoInputs.cache
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\MI CUENTA BANCARIA.AssemblyInfo.cs
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\MI CUENTA BANCARIA.csproj.CoreCompileInputs.cache
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\MI CUENTA BANCARIA.dll
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\refint\MI CUENTA BANCARIA.dll
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\MI CUENTA BANCARIA.pdb
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\MI CUENTA BANCARIA.genruntimeconfig.cache
+C:\Users\Samy Moneus\Desktop\repositorio c#\MI CUENTA BANCARIA\MI CUENTA BANCARIA\obj\Debug\net8.0-windows\ref\MI CUENTA BANCARIA.dll

@@ -1,0 +1,10 @@
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\bin\Debug\EJERCICIO_PAGINA_79.exe.config
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\bin\Debug\EJERCICIO_PAGINA_79.exe
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\bin\Debug\EJERCICIO_PAGINA_79.pdb
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\obj\Debug\EJERCICIO_PAGINA_79.csproj.AssemblyReference.cache
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\obj\Debug\EJERCICIO_PAGINA_79.Form1.resources
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\obj\Debug\EJERCICIO_PAGINA_79.Properties.Resources.resources
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\obj\Debug\EJERCICIO_PAGINA_79.csproj.GenerateResource.cache
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\obj\Debug\EJERCICIO_PAGINA_79.csproj.CoreCompileInputs.cache
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\obj\Debug\EJERCICIO_PAGINA_79.exe
+C:\Users\luism\Downloads\fran\EJERCICIO_PAGINA_79\EJERCICIO_PAGINA_79\obj\Debug\EJERCICIO_PAGINA_79.pdb
